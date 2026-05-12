@@ -1,0 +1,19 @@
+{
+    "25105129060": {
+        "name": "Rahul Kumar ",
+        "branch": "CSE",
+        "semester": 2,
+        "courses": [
+            "mathematics ii",
+            "ENglish",
+            "WEb dEVElopment"
+        ],
+        "marks": {
+            "mathematics ii": 100.0,
+            "ENglish": 99.0,
+            "WEb dEVElopment": 100.0
+        },
+        "average": 99.66666666666667,
+        "grade": "A+"
+    }
+}
